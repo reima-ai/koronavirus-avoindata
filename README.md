@@ -104,6 +104,8 @@ HS on käyttänyt ja käyttää dataa ainakin näissä grafiikoissa:
 
 [A Map of the Coronavirus disease (COVID-19) outbreak in Finland](https://finland-coronavirus-map.netlify.com/) ([Lovell D'souza](https://github.com/lovelldies))
 
+[Corona in Finland. Predict cases in the future](https://www.intellinord.fi/Corona/Corona%20in%20Finland.html) ([source](https://github.com/reima-ai/CoronaInFinland)) 
+
 
 # Huomautus
 
